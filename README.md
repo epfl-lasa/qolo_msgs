@@ -1,1 +1,2 @@
-# qolo_msgs \n Repository to include qolo (crowd) messages.
+# qolo_msgs
+Repository to include qolo (crowd) messages.
